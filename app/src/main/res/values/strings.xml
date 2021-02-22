@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quake Detector</string>
+    <string name="webview_title">Details</string>
+</resources>
